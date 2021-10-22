@@ -2,4 +2,4 @@
 
 Trying using `"""Publish text and image of Patrick with his mind blown on Twitter"""`
 
-![Patrick with his mind blown](images/patrick.gif)
+![Patrick with his mind blown](patrick.gif)
