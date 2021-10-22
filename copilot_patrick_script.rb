@@ -34,7 +34,7 @@ client = Twitter::REST::Client.new do |config|
 end
 
 # Publish the update that includes text, a newline, and the GIF89a image of Patrick with his mind blown
-client.update_with_media("Hello World!\nThis Tweet used code provided by by @GitHub Copilot! 🤯", File.open("pat.gif"))
+client.update_with_media("Hello World!\nThis Tweet used code provided by by @GitHub Copilot! 🤯", File.open("patrick.gif"))
 
 # To run this script you may want to use rvm if you do not have root or sudo on your Mac / Linux environment
 # 1. Install Ruby 2.6.6 or something recent
