@@ -43,4 +43,4 @@ client.update_with_media("Hello World!\nThis Tweet used code provided by @GitHub
 # 4. Run the script with `ruby script.rb`
 # 5. Check your Twitter feed to see the update
 # 6. Enjoy!
-# 7. If you want to see the code (much of which was done with Copilot), check out the GitHub repo which was used to create this script: 
+# 7. If you want to see the code (much of which was done with Copilot), check out the GitHub repo which was used to create this script: https://github.com/JayCuthrell/copilot-patrick-tweet
